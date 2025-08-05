@@ -1,6 +1,6 @@
-# 📊 sentiment-analysis-groq-agno
+# 📊 sentiment-analysis-groq
 
-An interactive Streamlit application that performs **sentiment analysis** on customer reviews using the **Groq API**, powered by **LLaMA 3.3-70B** via the **Agno** framework.
+An interactive Streamlit application that performs **sentiment analysis** on customer reviews using the **Groq API**, powered by **LLaMA 3.3-70B**
 
 Upload a CSV file containing reviews, run the analysis, and visualize the sentiment distribution — all in a clean and intuitive interface.
 
